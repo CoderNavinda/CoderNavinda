@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Navinda
 #### I am a Software Engineer from University of Moratuwa, Sri Lanka
-I'm a dedicated computer science student with a passion for software engineering. My academic journey has equipped me with a strong foundation in programming, data structures, and algorithms. I'm enthusiastic about solving real-world problems through technology and enjoy building software applications that make a positive impact. Currently I have worked a backend engineer on a enterprise grade stock brokerage management system as an intern software engineer for a fintech company. I'm eager to continue learning and growing as a software engineer while contributing my skills to innovative projects and teams.
+I'm a dedicated computer science student with a passion for software engineering. My academic journey has equipped me with a strong foundation in programming, data structures, and algorithms. I'm enthusiastic about solving real-world problems through technology and enjoy building software applications that make a positive impact. Currently I have worked as a backend engineer on a enterprise grade stock brokerage management system as an intern software engineer for a fintech company. I'm eager to continue learning and growing as a software engineer while contributing my skills to innovative projects and teams.
 
 Skills: Java / Springboot/ JavaScript / ReactJS / NodeJS / ExpressJS / Python / Flask / C++ / PostgreSQL
 
